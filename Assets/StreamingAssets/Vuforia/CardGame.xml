@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Card_Q_new" size="1.000000 1.433460" />
+    <ImageTarget name="Card_K_new" size="1.000000 1.433460" />
+    <ImageTarget name="Card_Q" size="1.000000 1.433460" />
+    <ImageTarget name="Card_K" size="1.000000 1.433460" />
+    <ImageTarget name="Card_JOKER" size="1.000000 1.433460" />
+    <ImageTarget name="Card_J" size="1.000000 1.433460" />
+    <ImageTarget name="Card_A" size="1.000000 1.433460" />
+  </Tracking>
+</QCARConfig>
